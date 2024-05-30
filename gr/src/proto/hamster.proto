@@ -1,0 +1,85 @@
+syntax = "proto3";
+
+package hamster;
+
+option csharp_namespace = "HSRM.CS.DistributedSystems.Hamster";
+
+service HamsterService {
+	rpc AddHamster(HamsterAddRequest) returns (HamsterAddResponse);
+	rpc Collect(HamsterCollectRequest) returns (HamsterCollectResponse);
+	rpc HowIsDoing(HamsterHowIsDoingRequest) returns (HamsterHowIsDoingResponse);
+	rpc LookUp(HamsterLookUpRequest) returns (HamsterLookUpResponse);
+	rpc GiveTreats(HamsterGiveTreatsRequest) returns (HamsterGiveTreatsResponse);
+	rpc ReadEntry(HamsterReadEntryRequest) returns (HamsterReadEntryResponse);
+	rpc Search(HamsterSearchRequest) returns (HamsterSearchResponse);
+}
+
+message HamsterAddRequest {
+	string ownerName = 1;
+	string hamsterName = 2;
+	int32 treats = 3;
+}
+
+message HamsterAddResponse {
+	int32 id = 1;
+}
+
+message HamsterCollectRequest {
+	string ownerName = 1;
+}
+
+message HamsterCollectResponse {
+	int32 treatsLeft = 1;
+}
+
+message HamsterHowIsDoingRequest {
+	int32 id = 1;
+}
+
+message HamsterHowIsDoingResponse {
+	message HamsterState {
+		int32 id = 1;
+		int32 cost = 2;
+		int32 treats = 3;
+		int32 rounds = 4;
+	}
+	HamsterState hamster = 1;
+}
+
+message HamsterLookUpRequest {
+	string ownerName = 1;
+	string hamsterName = 2;
+}
+
+message HamsterLookUpResponse {
+	int32 id = 1;
+}
+
+message HamsterGiveTreatsRequest {
+	int32 id = 1;
+	int32 treats = 2;
+}
+
+message HamsterGiveTreatsResponse {
+	int32 treats = 1;
+}
+
+message HamsterReadEntryRequest {
+	int32 id = 1;
+}
+
+message HamsterReadEntryResponse {
+	int32 treats = 1;
+	string ownerName = 2;
+	string hamsterName = 3;
+	int32 price = 4;
+}
+
+message HamsterSearchRequest {
+	optional string ownerName = 1;
+	optional string hamsterName = 2;
+}
+
+message HamsterSearchResponse {
+	repeated int32 id = 1;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HamsterDataStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataStoreEntry>
+    <id>715293140</id>
+    <admissionTime>2023-04-14T11:37:23.0814667+02:00</admissionTime>
+    <ownerName>otto</ownerName>
+    <hamsterName>heinz</hamsterName>
+    <price>17</price>
+    <treats>23</treats>
+  </DataStoreEntry>
+  <DataStoreEntry>
+    <id>1828363387</id>
+    <admissionTime>2023-04-14T11:37:32.6581638+02:00</admissionTime>
+    <ownerName>otto</ownerName>
+    <hamsterName>blondy</hamsterName>
+    <price>17</price>
+    <treats>42</treats>
+  </DataStoreEntry>
+</HamsterDataStore>

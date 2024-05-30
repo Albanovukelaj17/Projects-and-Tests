@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamsterCLI", "HamsterCLI\HamsterCLI.csproj", "{C65621BB-2246-4431-A352-C432E1838508}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hamsterlib", "Hamsterlib\Hamsterlib.csproj", "{99467947-32FD-4410-A603-7676DF616C28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamsterServer", "HamsterServer\HamsterServer.csproj", "{13100617-6CAB-4CCF-B850-583829D3F550}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamsterClient", "HamsterClient\HamsterClient.csproj", "{6D69EF1C-F193-46F0-B0F9-DD9E4B863570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65621BB-2246-4431-A352-C432E1838508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65621BB-2246-4431-A352-C432E1838508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65621BB-2246-4431-A352-C432E1838508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65621BB-2246-4431-A352-C432E1838508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99467947-32FD-4410-A603-7676DF616C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99467947-32FD-4410-A603-7676DF616C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99467947-32FD-4410-A603-7676DF616C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99467947-32FD-4410-A603-7676DF616C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13100617-6CAB-4CCF-B850-583829D3F550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13100617-6CAB-4CCF-B850-583829D3F550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13100617-6CAB-4CCF-B850-583829D3F550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13100617-6CAB-4CCF-B850-583829D3F550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D69EF1C-F193-46F0-B0F9-DD9E4B863570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D69EF1C-F193-46F0-B0F9-DD9E4B863570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D69EF1C-F193-46F0-B0F9-DD9E4B863570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D69EF1C-F193-46F0-B0F9-DD9E4B863570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44418AE2-A37B-42C9-B3AC-9209AE544F92}
+	EndGlobalSection
+EndGlobal

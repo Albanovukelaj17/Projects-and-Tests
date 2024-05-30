@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HamsterDataStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataStoreEntry>
+    <id>1450920814</id>
+    <admissionTime>2024-05-30T18:28:31.543687+02:00</admissionTime>
+    <ownerName>diesnameee123456789012345678901</ownerName>
+    <hamsterName>diesnameee123456789012345678902</hamsterName>
+    <price>17</price>
+    <treats>0</treats>
+  </DataStoreEntry>
+</HamsterDataStore>

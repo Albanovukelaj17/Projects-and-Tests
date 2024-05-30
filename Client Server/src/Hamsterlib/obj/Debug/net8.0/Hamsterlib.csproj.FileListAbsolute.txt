@@ -1,0 +1,11 @@
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/bin/Debug/net8.0/HamsterLib.deps.json
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/bin/Debug/net8.0/HamsterLib.dll
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/bin/Debug/net8.0/HamsterLib.pdb
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/Hamsterlib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/Hamsterlib.AssemblyInfoInputs.cache
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/Hamsterlib.AssemblyInfo.cs
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/Hamsterlib.csproj.CoreCompileInputs.cache
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/HamsterLib.dll
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/refint/HamsterLib.dll
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/HamsterLib.pdb
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/Hamsterlib/obj/Debug/net8.0/ref/HamsterLib.dll

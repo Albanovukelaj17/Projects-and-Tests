@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1lNSVkxm1iYEgk5qj0SGAqT31PWU00A61LC9zGzPHYUtppcTiPEBPBnXXB74kgnmd4wXGFUq0n+FbO2ZKUXmA==",
+  "success": true,
+  "projectFilePath": "/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/HamsterCLI.csproj",
+  "expectedPackageFiles": [
+    "/Users/albanovukelaj/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/Users/albanovukelaj/RiderProjects/hamster-vs/build/net8.0/Hamster
+/Users/albanovukelaj/RiderProjects/hamster-vs/build/net8.0/Hamster.deps.json
+/Users/albanovukelaj/RiderProjects/hamster-vs/build/net8.0/Hamster.runtimeconfig.json
+/Users/albanovukelaj/RiderProjects/hamster-vs/build/net8.0/Hamster.dll
+/Users/albanovukelaj/RiderProjects/hamster-vs/build/net8.0/Hamster.pdb
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/HamsterCLI.csproj.AssemblyReference.cache
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/HamsterCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/HamsterCLI.AssemblyInfoInputs.cache
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/HamsterCLI.AssemblyInfo.cs
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/HamsterCLI.csproj.CoreCompileInputs.cache
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/HamsterCLI.csproj.Up2Date
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/Hamster.dll
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/refint/Hamster.dll
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/Hamster.pdb
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/HamsterCLI.genruntimeconfig.cache
+/Users/albanovukelaj/RiderProjects/hamster-vs/src/HamsterCLI/obj/Debug/net8.0/ref/Hamster.dll
